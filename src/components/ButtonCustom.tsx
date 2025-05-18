@@ -21,8 +21,8 @@ const ButtonCustom: React.FC<ButtonCustomProps> = ({
           backgroundColor: "white",
           color: "green",
           borderRadius: 100,
-          border: "none", // Sin borde para cancelar
-          boxShadow: "none", // Para evitar sombras si existieran
+          border: "none",
+          boxShadow: "none", 
         };
 
   return (
